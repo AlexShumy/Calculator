@@ -1,6 +1,6 @@
 # Calculator
 
-Simple and bright caclulator
+Simple and bright caclulator app
 
 ## Features
 
